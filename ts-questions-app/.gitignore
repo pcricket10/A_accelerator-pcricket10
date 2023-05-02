@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+distII
+dist-ssr
+*.local
